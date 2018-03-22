@@ -6,7 +6,7 @@ A list of 🔥awesome🔥 Hacking Health projects.
 ## HH Hackathon 2018
 
 * [Automated Intelligent Scheduler]() - 1st prize
-* [Immune Check]() - 2nd prize
+* [Immune Check](https://github.com/jthetzel/outbreak-nl-web) - 2nd prize
 * [VIC]() - Mental Health Award
 * [Traack]()
 * [EZI- Pen]()
@@ -15,3 +15,7 @@ A list of 🔥awesome🔥 Hacking Health projects.
 * [HealthMaps]()
 * [Efika]()
 * [My Independence]()
+
+## HH Hackathon 2017
+
+* [MetaClinic](https://github.com/jthetzel/blood-clinic-web)
