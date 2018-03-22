@@ -10,7 +10,7 @@ A list of 🔥awesome🔥 Hacking Health projects.
 * [VIC]() - Mental Health Award
 * [Traack]()
 * [EZI- Pen]()
-* [Drasa](https://www.github.com/Sagrix/drasa){:target="_blank"}
+* [Drasa](https://www.github.com/Sagrix/drasa)
 * [ListenInside]()
 * [HealthMaps]()
 * [Efika]()
