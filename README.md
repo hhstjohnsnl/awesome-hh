@@ -3,6 +3,10 @@ A list of 🔥awesome🔥 Hacking Health projects.
 
 ---
 
+## HH Vancouver e-Health Hackathon 2018
+
+* [Support Circle](https://github.com/andrewgrant111/support-circle)
+
 ## HH Hackathon 2018
 
 * [Automated Intelligent Scheduler](https://hhstjohnsnl2018.sparkboard.com/project/5aa52dc364fffa0400b9b1d6) - 1st prize
