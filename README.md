@@ -3,6 +3,9 @@ A list of 🔥awesome🔥 Hacking Health projects.
 
 ---
 
+## HH Hackathon 2019
+* [PatientHR](https://github.com/patienthr/PatientHR)
+
 ## HH Vancouver e-Health Hackathon 2018
 
 * [Support Circle](https://github.com/andrewgrant111/support-circle)
