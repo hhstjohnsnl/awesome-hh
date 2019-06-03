@@ -1,5 +1,5 @@
 # awesome-hh
-A list of 🔥awesome🔥 Hacking Health projects.
+A list of 🔥[awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md)🔥 Hacking Health projects.
 
 ---
 
