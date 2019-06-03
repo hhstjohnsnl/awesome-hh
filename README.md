@@ -3,6 +3,9 @@ A list of 🔥awesome🔥 Hacking Health projects.
 
 ---
 
+## HOG Hackathon 2019
+* [4SITE](https://github.com/c-core-labs/hog2019-web)
+
 ## HH Hackathon 2019
 * [PatientHR](https://github.com/patienthr/PatientHR)
 
