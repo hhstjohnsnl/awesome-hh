@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 # awesome-hh
 A list of 🔥[awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md)🔥 Hacking Health projects.
 
